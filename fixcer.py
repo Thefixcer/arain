@@ -56,9 +56,9 @@ logo = """ -----------------------------•◈•
 |__~~~\ •◈•-----█-------⑧-------█------•◈•
 |__~~~\ •◈•-----█-------⑥-------█------•◈•
 \033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92mFIXCER ARAIN 
-\033[1;96mInstagram \033[1;93m: \033[1;FLOWFIXCER ARAIN
-\033[1;96mFacebook  \033[1;93m: \033[1;FIXCER ARAIN
+\033[1;96mAuthor  \033[1;93m: \033[1;92mFLOWFIXCER ARAIN
+\033[1;96mInstagram \033[1;93m: \033[1;mFLOWFIXCER ARAIN
+\033[1;96mFacebook  \033[1;93m: \033[1;mFLOWFIXCER ARAIN
 \033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/Thfixcer/arain
 \033[1;91m======================================="""
 
@@ -81,7 +81,7 @@ os.system("clear")
 print "\033[1;96m ============================================================="
 print  """\033[1;91m=======================================
 \033[1;96mAuthor  \033[1;93m: \033[1;92mFIXCER ARAIN
-\033[1;96mInstagram \033[1;93m: \033[1;92mFLOWARAIN
+\033[1;96mInstagram \033[1;93m: \033[1;92mFLOWFIXCER ARAIN
 \033[1;96mFacebook  \033[1;93m: \033[1;92mFIXCER ARAIN
 \033[1;96mGithub \033[1;93m: \033[1;92mhttps://Github.com/Thefixcer/arain
 \033[1;91m======================================="""
