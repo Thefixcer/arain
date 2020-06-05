@@ -59,7 +59,7 @@ logo = """ -----------------------------•◈•
 \033[1;96mAuthor  \033[1;93m: \033[1;92mFixcr ARAIN 
 \033[1;96mInstagram \033[1;93m: \033[1;Flowa
 \033[1;96mFacebook  \033[1;93m: \033[1; fIXCER ARAIN
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/Thfixcer/fixcer
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/Thfixcer/arain
 \033[1;91m======================================="""
 
 def tik():
@@ -82,7 +82,7 @@ print "\033[1;96m ============================================================="
 print  """\033[1;91m=======================================
 \033[1;96mAuthor  \033[1;93m: \033[1;92mFIXCER ARAIN
 \033[1;96mInstagram \033[1;93m: \033[1;92mFlowARAIN
-\033[1;96mFacebook  \033[1;93m: \033[1;92m FIXCER ARAIN
+\033[1;96mFacebook  \033[1;93m: \033[1;92mFIXCER ARAIN
 \033[1;96mGithub \033[1;93m: \033[1;92mhttps://Github.com/Thefixcer/fixcer
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
